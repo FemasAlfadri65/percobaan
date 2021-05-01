@@ -1,0 +1,42 @@
+body {
+	background-color: #b0a7a7;
+}
+
+h1 {
+	text-align: center;
+	font-size: 40px;
+	color: gray ;
+	font-family: "Georgia";
+	padding-top: 25px;
+	padding-right: 30px;
+	padding-bottom: 25px;
+	padding-left: 50px;
+	border-style: outset; ;
+	background-color: white;
+
+}
+
+img {
+	width: 300px;
+	height: 200px;
+	padding-left: 500px;
+	padding-bottom: 25px
+	
+}
+
+p {
+	margin: 5px 50px 75px 100px ;
+	text-indent: 60px;
+	text-align: justify;
+	font-family: "Georgia" ;
+	padding-top: 25px;
+	padding-right: 30px;
+	padding-bottom: 25px;
+	padding-left: 25px;
+	background-color: white ;
+}
+
+footer {
+	color: black ;
+	margin-left: 25px
+}
